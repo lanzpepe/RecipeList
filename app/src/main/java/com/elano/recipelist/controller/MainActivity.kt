@@ -41,15 +41,25 @@ class MainActivity : AppCompatActivity() {
                 getString(R.string.text_sandwich_ingredients),
                 getString(R.string.text_sandwich_procedures)))
         mRecipes.add(RecipeInfo(getString(R.string.text_salad),
-                getString(R.string.text_salad_desc), R.drawable.mango_lime_bean_salad))
+                getString(R.string.text_salad_desc), R.drawable.mango_lime_bean_salad,
+                getString(R.string.text_salad_ingredients),
+                getString(R.string.text_salad_procedures)))
         mRecipes.add(RecipeInfo(getString(R.string.text_soup),
-                getString(R.string.text_soup_desc), R.drawable.sweet_potato_and_lentil_soup))
+                getString(R.string.text_soup_desc), R.drawable.sweet_potato_and_lentil_soup,
+                getString(R.string.text_soup_ingredients),
+                getString(R.string.text_soup_procedures)))
         mRecipes.add(RecipeInfo(getString(R.string.text_mousse),
-                getString(R.string.text_mousse_desc), R.drawable.lime_mousse))
+                getString(R.string.text_mousse_desc), R.drawable.lime_mousse,
+                getString(R.string.text_mousse_ingredients),
+                getString(R.string.text_mousse_procedures)))
         mRecipes.add(RecipeInfo(getString(R.string.text_soup),
-                getString(R.string.text_soup_desc), R.drawable.sweet_potato_and_lentil_soup))
+                getString(R.string.text_soup_desc), R.drawable.sweet_potato_and_lentil_soup,
+                getString(R.string.text_soup_ingredients),
+                getString(R.string.text_soup_procedures)))
         mRecipes.add(RecipeInfo(getString(R.string.text_salad),
-                getString(R.string.text_salad_desc), R.drawable.mango_lime_bean_salad))
+                getString(R.string.text_salad_desc), R.drawable.mango_lime_bean_salad,
+                getString(R.string.text_salad_ingredients),
+                getString(R.string.text_salad_procedures)))
 
         mAdapter.notifyDataSetChanged()
     }
