@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recipe List</string>
+    <string name="text_image_description">Recipe Image</string>
+    <string name="text_ingredient">Ingredients:</string>
+    <string name="text_procedure">Procedures:</string>
+    <string name="text_sandwich">Kale/Lemon Sandwich</string>
+    <string name="text_sandwich_desc">This sandwich is stunningly delicious and tastes as good as it is healthy. Any greens of choice will work.
+        The lemon adds an almost sweet taste. Be generous with it!</string>
+    <string name="text_sandwich_ingredients">4 slices Mestermacher of Feldcamp (Whole Foods) or any whole grain bread
+        \n1 bunch of kale, chopped in bite sized pieces (remove thick stem) or\nSwiss Chard or greens of choice (4 cups or more)
+        \nhummus without tahini (easy to make blending a base of chick peas)
+        \nlemon and garlic then adding to taste cumin, vinegar, red peppers, parsley or cilantro\ngreen onions, chopped (1 per slice of bread)
+        \n1/2 bunch cilantro or parsley, chopped\n1/2 - 1 lemon, center part VERY VERY thinly sliced and the ends, squeezed and zested
+        \n1 large tomato, sliced in 4 thick slices (optional)</string>
+    <string name="text_sandwich_procedures">
+        1. Toast bread well. If using Mestermacher or a rye or pumpernickel double or even triple toast, make it almost cracker-like.
+        \n2. Put kale in a pot with about 3-4 inches of water in the bottom. Bring to a boil, cover and cook until kale is tender, 3-5 minutes. Check frequently. Kale is good when cooked almost spinach-like.
+        \n3. Spread toast thickly with hummus, sprinkle green onions on the hummus, pile cilantro on top of the green onions and then place a few thinly sliced lemon pieces on the cilantro.
+        \n4. When kale is tender, drain well. Shake the strainer so all water is gone, sprinkle the kale in the strainer with lemon zest and remaining lemon juice. Lots of lemon makes this good!
+        \n5. Then put a big handful of lemon filled kale on top of each piece of bread. It is delicious just like that or top with a tomato slice.\n</string>
+    <string name="text_salad">Mango-Lime Bean Salad</string>
+    <string name="text_salad_desc">
+        Everyone loves this, so double or even triple the recipe! It vanishes in a flash, and also works well as a salsa. It really is out all-time favorite summer salad.
+    </string>
+    <string name="text_soup">Sweet Potato and Lentil Soup with Shiitake Mushrooms</string>
+    <string name="text_soup_desc">
+        This soup is so good Essy and I ate it ALL the first time I made it. If someone is hesitant about plant-based food, this has to be a convincer.
+    </string>
+    <string name="text_mousse">Lime Mousse</string>
+    <string name="text_mousse_desc">This is a FABULOUS alone, topped with fruit of any kind or as a frosting on cake.
+        It is fast to make at the last minute. Use more or less lime according to taste.</string>
+</resources>
